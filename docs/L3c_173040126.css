@@ -1,0 +1,41 @@
+body{
+		background-color: khaki;
+}
+h1{
+		text-align: center;
+		font-family: "comicsansms";
+		color: darkblue;	
+}
+
+h4{
+		text-align: right;
+		font-family: arial;
+		font-style : italic;
+}
+h3{
+		font-variant: normal;
+}
+
+p{
+	text-indent: 50px;
+	font-family: verdana;
+}
+
+.p1{
+	color: salmon;
+	text-align: center;
+	color: red;
+}
+#p2{
+		text-align: center;
+		color: darked;
+}
+.hai:link{
+		text-decoration: none;
+		font-style: bold;
+		color: blue;
+}
+.hai:hover{
+		color: red;
+		text-decoration: underline;
+}
